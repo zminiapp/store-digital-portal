@@ -38,3 +38,6 @@ Thumbs.db
 
 # Production build
 www
+
+.idea
+.vscode
