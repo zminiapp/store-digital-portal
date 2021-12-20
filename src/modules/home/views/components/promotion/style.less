@@ -1,0 +1,31 @@
+.promotion-wrapper {
+    position: relative;
+    .image {
+        height: auto;
+        width: 100%;
+        img {
+            object-fit: cover;
+            height: 100%;
+        }
+        overflow: hidden;
+    }
+    .swiper-pagination {
+        bottom: 4px;
+        left: 50%;
+        transform: translateX(-50%);
+        
+        .swiper-pagination-bullet {
+            height: 2px;
+            width: 12px;
+            background: #989bae;
+            opacity: 1;
+            border-radius: initial;
+        }
+        .swiper-pagination-bullet-active {
+            background: #fff;
+        }
+        .swiper-pagination-bullet + .swiper-pagination-bullet {
+            margin-left: 2px;
+        }
+    }
+}

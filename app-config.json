@@ -1,0 +1,55 @@
+{
+    "app": {
+        "title": "Cheese Coffee Hồng Bàng",
+        "headerColor": "#AA7F14",
+        "textColor": "white",
+        "statusBarColor": "#AA7F14",
+        "leftButton": "both"
+    },
+    "debug": false,
+    "listCSS": [],
+    "listSyncJS": [],
+    "listAsyncJS": [],
+    "pages": ["/modal", "/payment"],
+    "clientConfig": {
+        "oaId": "2352868362652028486",
+        "logoURL": "https://stc-oa.zdn.vn/uploads/e127c8af4fbd97d27db769278deca664.png",
+        "address": "307 Hồng Bàng, Phường 11, Quận 5, 700000, Q.5, 70000",
+        "medicalLink": "https://tokhaiyte.vn/",
+        "menu": [
+            "https://stc-oa.zdn.vn/uploads/96e4e63b4ed7fd2fcf4847aabb6a083d.jpeg",
+            "https://stc-oa.zdn.vn/uploads/f2fb0686db66e5a20455b64826230772.jpeg",
+            "https://stc-oa.zdn.vn/uploads/4901961bccae78c60b9dc64f0a9a0720.png",
+            "https://stc-oa.zdn.vn/uploads/1ae369f8de1bff0e45d734c1c2578a34.jpeg"
+        ],
+        "promotion": [
+            "https://stc-oa.zdn.vn/uploads/6adce671d7b867bddb795aed84d23c15.jpg",
+            "https://stc-oa.zdn.vn/uploads/454578ae10dce95bbf69463a431ee21d.jpg",
+            "https://stc-oa.zdn.vn/uploads/37150e53176e5c83a4c6322dff5a8281.jpg"
+        ],
+        "wifi": {
+            "name": "Daylatenwifi",
+            "password": "motconmeo1234"
+        },
+        "payment": [
+            {
+                "icon": "https://stc-oa.zdn.vn/uploads/cf6a8f7aa540c07c23a4ef147f3be10e.png",
+                "title": "ZaloPay",
+                "description": "Ví điện tử ZaloPay",
+                "actionLink": "https://zalopay.vn"
+            },
+            {
+                "icon": "https://stc-oa.zdn.vn/uploads/16d18a16617948ca18b18c6dba95ee1a.png",
+                "title": "Momo",
+                "description": "Ví điện tử Momo",
+                "actionLink": "https://momo.vn/"
+            },
+            {
+                "icon": "https://stc-oa.zdn.vn/uploads/88d9e53f66a15e34ba976012b149ac82.png",
+                "title": "Moca",
+                "description": "Ví điện tử Moca",
+                "actionLink": "https://play.google.com/store/apps/details?id=vn.moca.pass&hl=vi&gl=US"
+            }
+        ]
+    }
+}

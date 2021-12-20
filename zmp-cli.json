@@ -1,0 +1,15 @@
+{
+    "newProject": true,
+    "name": "QMA Research",
+    "framework": "react",
+    "template": "blank",
+    "cssPreProcessor": "less",
+    "theming": {
+        "customColor": false,
+        "color": "#007aff",
+        "darkTheme": false,
+        "iconFonts": true,
+        "fillBars": false
+    },
+    "customBuild": false
+}
