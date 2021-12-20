@@ -1,6 +1,6 @@
 {
     "newProject": true,
-    "name": "QMA Research",
+    "name": "Store Digital Portal",
     "framework": "react",
     "template": "blank",
     "cssPreProcessor": "less",
