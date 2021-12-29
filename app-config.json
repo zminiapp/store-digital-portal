@@ -1,9 +1,9 @@
 {
     "app": {
-        "title": "Cheese Coffee Hồng Bàng",
-        "headerColor": "#AA7F14",
+        "title": "Én Restaurant & Event Space",
+        "headerColor": "#024935",
         "textColor": "white",
-        "statusBarColor": "#AA7F14",
+        "statusBarColor": "#024935",
         "leftButton": "both"
     },
     "debug": false,
@@ -13,23 +13,19 @@
     "pages": ["/modal", "/payment"],
     "clientConfig": {
         "oaId": "2352868362652028486",
-        "logoURL": "https://stc-oa.zdn.vn/uploads/e127c8af4fbd97d27db769278deca664.png",
-        "address": "307 Hồng Bàng, Phường 11, Quận 5, 700000, Q.5, 70000",
+        "logoURL": "https://stc-oa.zdn.vn/uploads/6be764142267d172065dce114f2c1fac.png",
+        "address": "Robot Tower, 308C Điện Biên Phủ, Phường 4, Quận 3, Thành phố Hồ Chí Minh",
         "medicalLink": "https://tokhaiyte.vn/",
         "menu": [
-            "https://stc-oa.zdn.vn/uploads/96e4e63b4ed7fd2fcf4847aabb6a083d.jpeg",
-            "https://stc-oa.zdn.vn/uploads/f2fb0686db66e5a20455b64826230772.jpeg",
-            "https://stc-oa.zdn.vn/uploads/4901961bccae78c60b9dc64f0a9a0720.png",
-            "https://stc-oa.zdn.vn/uploads/1ae369f8de1bff0e45d734c1c2578a34.jpeg"
+            "https://stc-oa.zdn.vn/uploads/4d7582eb30603587fd3117b08e263633.jpg",
+            "https://stc-oa.zdn.vn/uploads/cf199b3def4414e39030e8f4278eafa2.jpg",
+            "https://stc-oa.zdn.vn/uploads/98903481ebeebd6e699b4b594d480421.jpg",
+            "https://stc-oa.zdn.vn/uploads/71ef09fda492d9bb1c41e9ed41b949c2.jpg"
         ],
-        "promotion": [
-            "https://stc-oa.zdn.vn/uploads/6adce671d7b867bddb795aed84d23c15.jpg",
-            "https://stc-oa.zdn.vn/uploads/454578ae10dce95bbf69463a431ee21d.jpg",
-            "https://stc-oa.zdn.vn/uploads/37150e53176e5c83a4c6322dff5a8281.jpg"
-        ],
+        "promotion": ["https://stc-oa.zdn.vn/uploads/0c6046c6c47773504f2f3ba732daf33e.png"],
         "wifi": {
-            "name": "Daylatenwifi",
-            "password": "motconmeo1234"
+            "name": "Corner 308 Cuisine",
+            "password": ""
         },
         "payment": [
             {

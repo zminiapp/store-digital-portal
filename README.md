@@ -91,14 +91,14 @@ These above features infos are easily customized through the app-config json fil
 
 ## Screenshots
 
-![App Screenshot 1](https://stc-oa.zdn.vn/uploads/fa934c572f39dc2a5edbbad54ea6acb2.jpg)
-![App Screenshot 2](https://stc-oa.zdn.vn/uploads/0f7ec165d3bfd2c2435820e19acf843b.jpg)
+![App Screenshot 1](https://stc-oa.zdn.vn/uploads/6354d988bc428b1e2125eea9216afb78.jpg)
+![App Screenshot 2](https://stc-oa.zdn.vn/uploads/aa5756917c6708be48cfe4b0adc2f694.jpg)
 
 ## Demo
 
 Scan this QR code below to use the demo app.
 
-![App QR Code](	https://stc-oa.zdn.vn/uploads/59b44c9b443a12afc6d0d6ddad3bb3dc.jpg)
+![App QR Code](https://stc-oa.zdn.vn/uploads/a4c7e19a47a0d1ab6b6c99a96e62ffe9.png)
 
 ## Acknowledgements
 
